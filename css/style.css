@@ -462,6 +462,9 @@ section.tab-section {
     .footer-logo {
         text-align: center;
     }
+	.pat img {
+	width: 136px;
+}
 }
 
 /***** Wide Mobile Layout *****/
